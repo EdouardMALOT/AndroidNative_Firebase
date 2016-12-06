@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sign_out">Se déconnecter</string>
+    <string name="send_button_label">Envoyer</string>
+
+</resources>
